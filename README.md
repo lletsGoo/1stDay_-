@@ -8,5 +8,7 @@ the crackZip/Rar.py is used to blast password with the Dic
 ——————————————————————————————————————————————————————
 
 分工情况：
+
 犹禹谦50%：Zip文件的爆破，实现密码的快速检索
+
 张朝栋50%：字典的生成，rar文件的爆破
